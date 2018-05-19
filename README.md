@@ -1,5 +1,5 @@
 # RFSeq
-A program to generate the 6 different reading frames, three on the forward strand and three on the complement strand. Please note that it does **NOT** find open reading frames (ORF). Give a file with just a single line of sequence as input, **NO** Fasta format needed.
+The program RFSeq (Reading Frames Sequences) generates the 6 different reading frames, three on the forward strand and three on the complement strand. Please note that it does **NOT** find open reading frames (ORF). Give a file with just a single line of sequence as input, **NO** Fasta format needed.
 
 The program uses the module sys and the third-party module wx-python 4.0 (Phoenix) WxPython
 
