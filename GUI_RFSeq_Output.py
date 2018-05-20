@@ -37,7 +37,7 @@ class GUI_RFSeq_Output(wx.Panel):
         box.Add(hbox3, 1, wx.EXPAND | wx.ALL)
         
         box.Add(wx.StaticText(self, label="Complement Sequence:"), 1, wx.EXPAND | wx.ALL)
-        box.Add(self.cseq, 2, wx.EXPAND | wx.ALL)
+        box.Add(self.cseq, 1, wx.EXPAND | wx.ALL)
         hbox4 = wx.BoxSizer(wx.HORIZONTAL)
         hbox4.Add(wx.StaticText(self, label="RF4:"), 1, wx.EXPAND | wx.ALL)
         hbox4.Add(self.rf4, 2, wx.EXPAND | wx.ALL)
