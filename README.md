@@ -5,7 +5,7 @@ The program uses the module sys and the third-party module wx-python 4.0 (Phoeni
 
 The executable was made using pyinstaller on Windows 10 Home-edition 64-bit.
 
-In the project folder open the cmd and use the command: pyinstaller -F --icon=RFSeq.ico -w RFSeq.py
+In the project folder open the cmd and use the command: **pyinstaller -F --icon=RFSeq.ico -w RFSeq.py**
 
 The icon was made in Adobe Illustrator
 
